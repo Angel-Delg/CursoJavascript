@@ -11,7 +11,6 @@ const ExpresionRegularValidateString = /\d/
 const validateString = (Obj, Prop, Value) => {
     if(Object.keys(Obj).indexOf(Prop) === -1) {
         console.error(`The Prop ${Prop} is not Validate!!`)
-
         return false
     }
     if((Prop === 'Name' || Prop === 'Surname') && ExpresionRegularValidateString.test(Value)){
