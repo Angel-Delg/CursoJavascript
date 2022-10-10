@@ -6,7 +6,7 @@
     <li>Ernesto Said Castillo</li>
     <li>Jose Raúl Barberena</li>
     <li>Jonatham Steven Diaz</li>
-    <li>Jonatham Steven Diaz</li>
-    <li>Jonatham Steven Diaz</li>
-    <li>Jonatham Steven Diaz</li>
+    <li>Luis Ernesto Guridan</li>
+    <li>Hazael Gabriel Vasquez</li>
+    <li>Josh</li>
 </ol>
