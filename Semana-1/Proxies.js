@@ -15,7 +15,7 @@ const validateString = (Obj, Prop, Value) => {
     }
     if((Prop === 'Name' || Prop === 'Surname') && ExpresionRegularValidateString.test(Value)){
         console.error(`The prop ${Prop} can't include number`)
-        return false
+        return false 
     }
 
     return true
