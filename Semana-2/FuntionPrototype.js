@@ -7,3 +7,6 @@ const Credentials = {
 }
 
 console.log(Credentials)
+
+const age = 23
+const gmail ="lo que sea"
