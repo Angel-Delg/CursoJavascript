@@ -1,13 +1,7 @@
-// 1
+const ListaMejoresSeries={
 
-const Objet_1={
+top1:"breaking bad",
+top2:"game of tron"
 
-    name:"jonathan",
-    surname:"diaz ",
-    age:"18"
 
 }
-
-console.log(Objet_1)
-
-// 2
