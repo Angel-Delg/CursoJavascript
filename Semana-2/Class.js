@@ -27,3 +27,4 @@ class Son extends Person {
 
 const NewSon = new Son('@name','@surname',0,'email@emal.com')
 NewSon.Gretting()
+
